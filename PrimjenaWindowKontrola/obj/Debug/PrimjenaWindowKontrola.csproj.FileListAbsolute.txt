@@ -1,0 +1,10 @@
+C:\Users\Ante Ujcic\source\repos\PrimjenaWindowKontrola\PrimjenaWindowKontrola\bin\Debug\PrimjenaWindowKontrola.exe.config
+C:\Users\Ante Ujcic\source\repos\PrimjenaWindowKontrola\PrimjenaWindowKontrola\bin\Debug\PrimjenaWindowKontrola.exe
+C:\Users\Ante Ujcic\source\repos\PrimjenaWindowKontrola\PrimjenaWindowKontrola\bin\Debug\PrimjenaWindowKontrola.pdb
+C:\Users\Ante Ujcic\source\repos\PrimjenaWindowKontrola\PrimjenaWindowKontrola\obj\Debug\PrimjenaWindowKontrola.csprojAssemblyReference.cache
+C:\Users\Ante Ujcic\source\repos\PrimjenaWindowKontrola\PrimjenaWindowKontrola\obj\Debug\PrimjenaWindowKontrola.FormaProgram.resources
+C:\Users\Ante Ujcic\source\repos\PrimjenaWindowKontrola\PrimjenaWindowKontrola\obj\Debug\PrimjenaWindowKontrola.Properties.Resources.resources
+C:\Users\Ante Ujcic\source\repos\PrimjenaWindowKontrola\PrimjenaWindowKontrola\obj\Debug\PrimjenaWindowKontrola.csproj.GenerateResource.cache
+C:\Users\Ante Ujcic\source\repos\PrimjenaWindowKontrola\PrimjenaWindowKontrola\obj\Debug\PrimjenaWindowKontrola.csproj.CoreCompileInputs.cache
+C:\Users\Ante Ujcic\source\repos\PrimjenaWindowKontrola\PrimjenaWindowKontrola\obj\Debug\PrimjenaWindowKontrola.exe
+C:\Users\Ante Ujcic\source\repos\PrimjenaWindowKontrola\PrimjenaWindowKontrola\obj\Debug\PrimjenaWindowKontrola.pdb
